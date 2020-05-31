@@ -48,7 +48,7 @@ We will endeavour to provide more detail on how regularly and by which technical
 
 This repository uses [dataflows](https://github.com/datahq/dataflows) to process and normalize the data.
 
-You first need to install the dependencies:
+You first need to install the dependencies :
 
 ```
 pip install -r scripts/requirements.txt
