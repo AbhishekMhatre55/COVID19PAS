@@ -7,7 +7,7 @@ This dataset includes time series data tracking the number of people affected by
 
 * confirmed tested cases of Coronavirus infection
 * the number of people who have reportedly died while sick with Coronavirus
-* the number of people who have reportedly recovered from it
+* the number of people who have reportedly recovered from it.
 
 ## Data
 
